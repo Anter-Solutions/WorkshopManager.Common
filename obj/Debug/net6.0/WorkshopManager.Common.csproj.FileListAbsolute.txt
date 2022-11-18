@@ -10,3 +10,15 @@ D:\Projects\Repos\WorkshopManager\WorkshopManager.Common\obj\Debug\net6.0\Worksh
 D:\Projects\Repos\WorkshopManager\WorkshopManager.Common\obj\Debug\net6.0\refint\WorkshopManager.Common.dll
 D:\Projects\Repos\WorkshopManager\WorkshopManager.Common\obj\Debug\net6.0\WorkshopManager.Common.pdb
 D:\Projects\Repos\WorkshopManager\WorkshopManager.Common\obj\Debug\net6.0\ref\WorkshopManager.Common.dll
+D:\Projects\Personal\Anter\WorkshopManager\Solution\WorkshopManager\WorkshopManager.Common\bin\Debug\net6.0\WorkshopManager.Common.deps.json
+D:\Projects\Personal\Anter\WorkshopManager\Solution\WorkshopManager\WorkshopManager.Common\bin\Debug\net6.0\WorkshopManager.Common.dll
+D:\Projects\Personal\Anter\WorkshopManager\Solution\WorkshopManager\WorkshopManager.Common\bin\Debug\net6.0\WorkshopManager.Common.pdb
+D:\Projects\Personal\Anter\WorkshopManager\Solution\WorkshopManager\WorkshopManager.Common\obj\Debug\net6.0\WorkshopManager.Common.csproj.AssemblyReference.cache
+D:\Projects\Personal\Anter\WorkshopManager\Solution\WorkshopManager\WorkshopManager.Common\obj\Debug\net6.0\WorkshopManager.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Personal\Anter\WorkshopManager\Solution\WorkshopManager\WorkshopManager.Common\obj\Debug\net6.0\WorkshopManager.Common.AssemblyInfoInputs.cache
+D:\Projects\Personal\Anter\WorkshopManager\Solution\WorkshopManager\WorkshopManager.Common\obj\Debug\net6.0\WorkshopManager.Common.AssemblyInfo.cs
+D:\Projects\Personal\Anter\WorkshopManager\Solution\WorkshopManager\WorkshopManager.Common\obj\Debug\net6.0\WorkshopManager.Common.csproj.CoreCompileInputs.cache
+D:\Projects\Personal\Anter\WorkshopManager\Solution\WorkshopManager\WorkshopManager.Common\obj\Debug\net6.0\WorkshopManager.Common.dll
+D:\Projects\Personal\Anter\WorkshopManager\Solution\WorkshopManager\WorkshopManager.Common\obj\Debug\net6.0\refint\WorkshopManager.Common.dll
+D:\Projects\Personal\Anter\WorkshopManager\Solution\WorkshopManager\WorkshopManager.Common\obj\Debug\net6.0\WorkshopManager.Common.pdb
+D:\Projects\Personal\Anter\WorkshopManager\Solution\WorkshopManager\WorkshopManager.Common\obj\Debug\net6.0\ref\WorkshopManager.Common.dll

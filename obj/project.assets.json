@@ -556,11 +556,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Repos\\WorkshopManager\\WorkshopManager.Common\\WorkshopManager.Common.csproj",
+      "projectUniqueName": "D:\\Projects\\Personal\\Anter\\WorkshopManager\\Solution\\WorkshopManager\\WorkshopManager.Common\\WorkshopManager.Common.csproj",
       "projectName": "WorkshopManager.Common",
-      "projectPath": "D:\\Projects\\Repos\\WorkshopManager\\WorkshopManager.Common\\WorkshopManager.Common.csproj",
+      "projectPath": "D:\\Projects\\Personal\\Anter\\WorkshopManager\\Solution\\WorkshopManager\\WorkshopManager.Common\\WorkshopManager.Common.csproj",
       "packagesPath": "C:\\Users\\Vladimir\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Repos\\WorkshopManager\\WorkshopManager.Common\\obj\\",
+      "outputPath": "D:\\Projects\\Personal\\Anter\\WorkshopManager\\Solution\\WorkshopManager\\WorkshopManager.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Software\\VisualStudio2022_Shared\\NuGetPackages"
@@ -615,7 +615,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
