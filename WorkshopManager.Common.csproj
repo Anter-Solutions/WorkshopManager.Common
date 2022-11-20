@@ -12,7 +12,6 @@
 
   <ItemGroup>
     <Folder Include="ConfigModels\" />
-    <Folder Include="Entities\" />
   </ItemGroup>
 
   <ItemGroup>
